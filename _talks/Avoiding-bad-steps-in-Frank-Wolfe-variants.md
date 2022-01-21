@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /talks/Avoiding-bad-steps-in-Frank-Wolfe-variants
 title: "Avoiding bad steps in Frank Wolfe variants"
 collection: talks
 type: "Talk"
