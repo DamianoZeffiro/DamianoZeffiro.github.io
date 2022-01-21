@@ -1,6 +1,4 @@
 ---
-year: 2020
-date: 2020-01-01
 title: "Active Set Complexity of the Away-Step Frank--Wolfe Algorithm"
 collection: publications
 permalink: /publication/Active-Set-Complexity-of-Away-Step-Frank-Wolfe-Algorithm
