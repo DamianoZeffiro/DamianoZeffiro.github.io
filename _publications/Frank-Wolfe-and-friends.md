@@ -4,6 +4,4 @@ collection: publications
 permalink: /publication/Frank-Wolfe-and-friends
 venue: '4OR, Invited survey'
 authors: 'Immanuel M. Bomze, Francesco Rinaldi and Damiano Zeffiro'
-year: 2021
-date: 2021
 ---
