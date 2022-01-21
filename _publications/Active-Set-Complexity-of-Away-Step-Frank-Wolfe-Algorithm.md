@@ -4,3 +4,4 @@ collection: publications
 permalink: /publication/Active-Set-Complexity-of-Away-Step-Frank-Wolfe-Algorithm
 venue: 'SIAM Journal on Optimization 30 (3), 2470-2500'
 authors: 'Immanuel M. Bomze, Francesco Rinaldi and Damiano Zeffiro'
+---
