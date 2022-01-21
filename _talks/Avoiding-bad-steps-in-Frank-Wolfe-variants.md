@@ -5,5 +5,5 @@ collection: talks
 type: "Talk"
 venue: "5th AIROYoung Workshop"
 date: 2021-12-02
-location: "prova"
+location: "Naples, Italy"
 ---
